@@ -1,0 +1,11 @@
+Application: AndroidGridTest;
+Title: After tapping on the Add widget the app minimizes to tray and new widget doesn't appear;
+Severity: Blocker;
+Priority: High;
+Environment: Moto Z Play Android 8.0.0;
+Precondition: The app is installed, the phone screen is empty;
+Step to reproduce: 
+1. Open the app;
+2. Tap Add widget button;
+Actual result: Widget doesn't appear and the app minimizes to tray;
+Expected result: Widget created.
