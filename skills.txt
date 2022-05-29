@@ -1,0 +1,6 @@
+Skill1: Git Bush;
+Skill2: GitHub;
+Skill3: Postman;
+Skill4: Jmeter;
+Skill5: Android Studio;
+Skill6: Charles.
